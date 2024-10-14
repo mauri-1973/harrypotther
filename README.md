@@ -21,4 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+<img src="https://github.com/mauri-1973/harrypotther/blob/master/imagenes/2.png" />
+
+
+

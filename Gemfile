@@ -60,7 +60,7 @@ gem "popper_js", "~> 2.11"
 
 gem "pg", "~> 1.5"
 
-gem "faker", "~> 3.4"
+gem "faker", "~> 3.5"
 
 gem "bootstrap", "~> 5.3"
 
